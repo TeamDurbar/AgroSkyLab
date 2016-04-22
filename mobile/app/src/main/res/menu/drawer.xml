@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_soil"
+            android:checked="true"
+            android:icon="@drawable/ic_soil"
+            android:title="@string/nav_item_soil" />
+        <item
+            android:id="@+id/navigation_item_crop"
+            android:checked="true"
+            android:icon="@drawable/ic_crops"
+            android:title="@string/nav_item_crop" />
+        <item
+            android:id="@+id/navigation_item_illegal_crops"
+            android:checked="true"
+            android:icon="@drawable/ic_illegal"
+            android:title="@string/nav_item_illegal_crops" />
+        <item
+            android:id="@+id/navigation_item_disaster"
+            android:checked="true"
+            android:icon="@drawable/ic_disaster"
+            android:title="@string/nav_item_disaster" />
+
+
+    </group>
+
+</menu>
