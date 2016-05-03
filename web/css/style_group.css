@@ -1,0 +1,30 @@
+
+
+
+.lightbox{
+    position:absolute;
+    top: 3px;
+    left: 3px;
+    z-index: 9999;
+    display:none;
+}
+.overleey{
+    background:#000;
+    width:180px;
+    height: 130px;
+    margin-left: 8px;
+    opacity: .6;
+    transition:linear 2s;
+}
+.lightbox a{
+    position:absolute;
+    z-index: 9999;
+    top: 50px;
+    left: 80px;
+    color: #cac8c7;
+    font-size: 30px;
+}
+.photo_box:hover .lightbox{
+    display:block;
+}
+

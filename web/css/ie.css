@@ -1,0 +1,23 @@
+.icon_tetle span,
+.footer_icon_box span,
+.icon_box span{ 
+	behavior:url(js/PIE.htc); 
+	position:absolute;
+	}
+
+
+#form .error-message,
+#form .empty-message{
+	filter:alpha(opacity=0);
+	}
+#form .invalid .error-message,
+#form .empty .empty-message, 
+#thumbs .touch_box:hover span:after{
+	filter:alpha(opacity=100); 
+	}
+
+.dorder_box, 
+.dorder_box_img, 
+#thumbs .touch_box span{
+	filter:alpha(opacity=20);
+	}

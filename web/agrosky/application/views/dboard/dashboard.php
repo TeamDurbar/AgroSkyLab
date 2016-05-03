@@ -1,0 +1,1 @@
+<img src="http://localhost/agrosky/images/poster.jpg" alt=""/>

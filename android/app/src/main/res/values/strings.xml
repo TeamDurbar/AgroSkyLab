@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agro SkyLab</string>
+    <string name="nav_item_soil">Soil</string>
+    <string name="nav_item_crop">Crops</string>
+    <string name="nav_item_history">History</string>
+    <string name="nav_item_disaster">Disaster</string>
+    <string name="nav_item_crop_suggesstion">Crop Suggestion</string>
+    <string name="nav_item_news_feed">New Feed</string>
+</resources>
